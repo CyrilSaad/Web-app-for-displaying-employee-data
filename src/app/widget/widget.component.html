@@ -1,0 +1,4 @@
+
+<app-chart [chartType]="'column'" *ngIf="widgetType==='barChart'"></app-chart>
+<app-chart [chartType]="'pie'" *ngIf="widgetType==='pieChart'"></app-chart>
+<app-table *ngIf="widgetType==='dataTable'"></app-table>

@@ -1,0 +1,14 @@
+.col-lg-12 {
+  width: 100%;
+}
+.col-lg-6 {
+  margin-top: 3vw;
+  border-radius: 5px;
+  /*padding-inline: 20px;*/
+}
+
+.shadow {
+  padding: 10px;
+  box-shadow: 0 0 15px lightgrey;
+  border-radius: 5px;
+}
